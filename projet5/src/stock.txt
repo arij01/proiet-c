@@ -1,0 +1,10 @@
+65 lait 45 produit_laitier 2030 7 6
+75 pain 10 autre 2021 12 2
+55 steak 12 viandes/poissons 2022 3 11
+3 sel 30 assaisonnement 2022 6 11
+45 sucre 35 assaisonnement 2022 7 11
+66 carottes 36 fruits/légumes 2023 6 4
+6 pommes 120 fruits/légumes 2023 6 4
+7 clementines 150 fruits/légumes 2023 7 4
+22 jus 88 liquide(eau/jus..) 2022 4 3
+44 yaought 200 produit_laitier 2022 5 3
